@@ -1,0 +1,1 @@
+cmd_/home/deepan/Documents/G547/assign_one/assign_one.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/deepan/Documents/G547/assign_one/assign_one.ko /home/deepan/Documents/G547/assign_one/assign_one.o /home/deepan/Documents/G547/assign_one/assign_one.mod.o
