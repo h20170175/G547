@@ -1,0 +1,1 @@
+cmd_/home/deepan/Documents/G547/assign_two/adc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/deepan/Documents/G547/assign_two/adc.ko /home/deepan/Documents/G547/assign_two/adc.o /home/deepan/Documents/G547/assign_two/adc.mod.o
